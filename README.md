@@ -1,11 +1,13 @@
 # Quick-Bangla-Installer-for-Wordpress
 
 
-*** Quick Bangla installer ***
+***Quick Bangla installer***
+
+
 This plugin installs Bengali Bangla Language on wordpress site.
 
 
-*** Description ***
+***Description***
 This plugin installs Bengali Bangla Language on wordpress site.
 Wordpress is now a popular CMS. Many Bangla sites are built with wordpress. 
 This plugin changes locale setting of your site and
@@ -14,19 +16,15 @@ Download and install "Quick Bangla installer" on your wordpress site
 and enjoy freedom of bangla.
 
 
-*** Installation ***
+***Installation***
+
+
 Steps for installing Bangla on wordpress site using Quick Bangla Installer.
 1. Extract zip in the /wp-content/plugins/ directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. No need to do anything
 
-
-*** Screenshots ***
-
-
-
-
-*** Changelog ***
+***Changelog***
 
 
 I have installed Bangla on my own site and it works fine. No risk to use. Enjoy...
