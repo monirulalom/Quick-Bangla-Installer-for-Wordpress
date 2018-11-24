@@ -1,5 +1,5 @@
 # Quick-Bangla-Installer-for-Wordpress
-<p style="border-left-color: #dc3232;background-color: #fbeaea;padding:15px;">Notice: This plugin has been closed and is no longer available for download. This project is no longer maintained</p>
+:no_entry: [DEPRECATED]: This plugin has been closed and is no longer available for download. This project is no longer maintained.
 
 ![Quick-Bangla-Installer-for-Wordpress](https://plugins.trac.wordpress.org/export/1979862/quick-bangla-installer/assets/banner-772x250.jpg)
 
