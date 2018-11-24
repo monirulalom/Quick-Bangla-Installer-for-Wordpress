@@ -1,5 +1,7 @@
 # Quick-Bangla-Installer-for-Wordpress
 
+![Quick-Bangla-Installer-for-Wordpress](https://plugins.trac.wordpress.org/export/1979862/quick-bangla-installer/assets/banner-772x250.jpg)
+
 
 This plugin installs Bengali Bangla Language on wordpress site.
 
